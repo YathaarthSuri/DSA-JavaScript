@@ -4,4 +4,4 @@ function linear_search(arr, target) {
     }
     return -1;
 }
-console.log(linear_search([1, 4, 2, 3], 2)) 
+console.log(linear_search([1, 4, 2, 3], 2))
